@@ -1,0 +1,138 @@
+{
+    "ServerTime": "2021/03/07 11:59:56",
+    "EventList": [
+        {
+            "EventId": 1,
+            "EventType": 3,
+            "EventName": "第一期",
+            "EventStatus": 2,
+            "EventInfo": {
+                "StartTime": "2021/03/01 12:00:00",
+                "EndTime": "2021/03/03 11:59:59",
+                "EndTimer": -1
+            },
+            "DragonListBaseLine": "3,000",
+            "DragonList": [
+                {
+                    "name": "1",
+                    "bonus": "$1,000"
+                },
+                {
+                    "name": "2",
+                    "bonus": "$600"
+                }
+            ],
+            "TigerListBaseLine": "300",
+            "TigerList": [
+                {
+                    "name": "1",
+                    "bonus": "$1,000"
+                },
+                {
+                    "name": "2",
+                    "bonus": "$500"
+                }
+            ]
+        },
+        {
+            "EventId": 2,
+            "EventType": 3,
+            "EventName": "第二期",
+            "EventStatus": 2,
+            "EventInfo": {
+                "StartTime": "2021/03/03 12:00:00",
+                "EndTime": "2021/03/05 11:59:59",
+                "EndTimer": 86400000
+            },
+            "DragonListBaseLine": "3,000",
+            "DragonList": [
+                {
+                    "name": "1",
+                    "bonus": "$1,000"
+                },
+                {
+                    "name": "2",
+                    "bonus": "$600"
+                }
+            ],
+            "TigerListBaseLine": "300",
+            "TigerList": [
+                {
+                    "name": "1",
+                    "bonus": "$1,000"
+                },
+                {
+                    "name": "2",
+                    "bonus": "$500"
+                }
+            ]
+        },
+        {
+            "EventId": 3,
+            "EventType": 3,
+            "EventName": "第三期",
+            "EventStatus": 1,
+            "EventInfo": {
+                "StartTime": "2021/03/05 12:00:00",
+                "EndTime": "2021/03/07 11:59:59",
+                "EndTimer": -1
+            },
+            "BonusTotal": 38888.0,
+            "DragonListBaseLine": "3,000",
+            "DragonList": [
+                {
+                    "name": "1",
+                    "bonus": "$1,000"
+                },
+                {
+                    "name": "2",
+                    "bonus": "$600"
+                }
+            ],
+            "TigerListBaseLine": "300",
+            "TigerList": [
+                {
+                    "name": "1",
+                    "bonus": "$1,000"
+                },
+                {
+                    "name": "2",
+                    "bonus": "$500"
+                }
+            ]
+        },
+        {
+            "EventId": 4,
+            "EventType": 3,
+            "EventName": "第四期",
+            "EventStatus": 0,
+            "EventInfo": {
+                "StartTime": "2021/03/07 12:00:00",
+                "EndTime": "2021/03/09 11:59:59",
+                "EndTimer": -1
+            },
+            "DragonListBaseLine": "3,000",
+            "DragonList": [
+                {
+                    "name": "1",
+                    "bonus": "$1,000"
+                },
+                {
+                    "name": "2",
+                    "bonus": "$600"
+                }
+            ],
+            "TigerListBaseLine": "300",
+            "TigerList": [
+                {
+                    "name": "1",
+                    "bonus": "$1,000"
+                },
+                {
+                    "name": "2",
+                    "bonus": "$500"
+                }
+            ]
+        }
+    ]
+}
