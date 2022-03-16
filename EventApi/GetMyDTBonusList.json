@@ -1,0 +1,210 @@
+{
+    "EventId": 345235,
+    "EventType": 3,
+    "BonusType": 1,
+    "Date": "02/21-02/27",
+    "BonusList": [
+        {
+            "num": 123,
+            "gid": 1,
+            "BuyFeatures": 0,
+            "base": "120",
+            "bonus": "132,342.23",
+            "record": "http://192.168.30.238:16888/Record/72Changes_New/index.html?lang=zh-TW",
+            "time": "2022/03/03 10:11:23",
+            "gname": "泰有錢?"
+        },
+        {
+            "num": 275,
+            "gid": 2,
+            "BuyFeatures": 1,
+            "base": "1,132,342.23",
+            "bonus": "$99,999.55",
+            "record": "http://192.168.30.238:16888/Record/72Changes_New/index.html?lang=zh-TW",
+            "time": "2022/03/03 10:11:23",
+            "gname": "ฟาร์มสยองในคืนหฤโหด"
+        },
+        {
+            "num": 345,
+            "gid": 4,
+            "BuyFeatures": 0,
+            "base": "120",
+            "bonus": "132,342.23",
+            "record": "http://192.168.30.238:16888/Record/72Changes_New/index.html?lang=zh-TW",
+            "time": "2022/03/03 10:11:23",
+            "gname": "慾望城市"
+        },
+        {
+            "num": 375,
+            "gid": 5,
+            "BuyFeatures": 0,
+            "base": "120",
+            "bonus": "132,342.23",
+            "record": "http://192.168.30.238:16888/Record/72Changes_New/index.html?lang=zh-TW",
+            "time": "2022/03/03 10:11:23",
+            "gname": "金雞報喜"
+        },
+        {
+            "num": 444,
+            "gid": 6,
+            "BuyFeatures": 0,
+            "base": "120",
+            "bonus": "132,342.23",
+            "record": "http://192.168.30.238:16888/Record/72Changes_New/index.html?lang=zh-TW",
+            "time": "2022/03/03 10:11:23",
+            "gname": "法老王"
+        },
+        
+        {
+            "num": 578,
+            "gid": 1,
+            "BuyFeatures": 1,
+            "base": "120",
+            "bonus": "132,342.23",
+            "record": "http://192.168.30.238:16888/Record/72Changes_New/index.html?lang=zh-TW",
+            "time": "2022/03/03 10:11:23",
+            "gname": "泰有錢"
+        },
+        {
+            "num": 666,
+            "gid": 2,
+            "BuyFeatures": 0,
+            "base": "120",
+            "bonus": "132,342.23",
+            "record": "http://192.168.30.238:16888/Record/72Changes_New/index.html?lang=zh-TW",
+            "time": "2022/03/03 10:11:23",
+            "gname": "魔法石"
+        },
+        {
+            "num": 789,
+            "gid": 4,
+            "BuyFeatures": 0,
+            "base": "120",
+            "bonus": "132,342.23",
+            "record": "http://192.168.30.238:16888/Record/72Changes_New/index.html?lang=zh-TW",
+            "time": "2022/03/03 10:11:23",
+            "gname": "慾望城市"
+        },
+        {
+            "num": 790,
+            "gid": 5,
+            "BuyFeatures": 0,
+            "base": "120",
+            "bonus": "132,342.23",
+            "record": "http://192.168.30.238:16888/Record/72Changes_New/index.html?lang=zh-TW",
+            "time": "2022/03/03 10:11:23",
+            "gname": "金雞報喜"
+        },
+        {
+            "num": 799,
+            "gid": 6,
+            "BuyFeatures": 0,
+            "base": "120",
+            "bonus": "132,342.23",
+            "record": "http://192.168.30.238:16888/Record/72Changes_New/index.html?lang=zh-TW",
+            "time": "2022/03/03 10:11:23",
+            "gname": "法老王"
+        },
+        {
+            "num": 811,
+            "gid": 1,
+            "BuyFeatures": 1,
+            "base": "120",
+            "bonus": "132,342.23",
+            "record": "http://192.168.30.238:16888/Record/72Changes_New/index.html?lang=zh-TW",
+            "time": "2022/03/03 10:11:23",
+            "gname": "泰有錢"
+        },
+        {
+            "num": 822,
+            "gid": 2,
+            "BuyFeatures": 0,
+            "base": "120",
+            "bonus": "132,342.23",
+            "record": "http://192.168.30.238:16888/Record/72Changes_New/index.html?lang=zh-TW",
+            "time": "2022/03/03 10:11:23",
+            "gname": "魔法石"
+        },
+        {
+            "num": 831,
+            "gid": 4,
+            "BuyFeatures": 0,
+            "base": "120",
+            "bonus": "132,342.23",
+            "record": "http://192.168.30.238:16888/Record/72Changes_New/index.html?lang=zh-TW",
+            "time": "2022/03/03 10:11:23",
+            "gname": "慾望城市"
+        },
+        {
+            "num": 900,
+            "gid": 5,
+            "BuyFeatures": 0,
+            "base": "120",
+            "bonus": "132,342.23",
+            "record": "http://192.168.30.238:16888/Record/72Changes_New/index.html?lang=zh-TW",
+            "time": "2022/03/03 10:11:23",
+            "gname": "金雞報喜"
+        },
+        {
+            "num": 911,
+            "gid": 6,
+            "BuyFeatures": 0,
+            "base": "120",
+            "bonus": "132,342.23",
+            "record": "http://192.168.30.238:16888/Record/72Changes_New/index.html?lang=zh-TW",
+            "time": "2022/03/03 10:11:23",
+            "gname": "法老王"
+        },
+        
+        {
+            "num": 916,
+            "gid": 1,
+            "BuyFeatures": 1,
+            "base": "120",
+            "bonus": "132,342.23",
+            "record": "http://192.168.30.238:16888/Record/72Changes_New/index.html?lang=zh-TW",
+            "time": "2022/03/03 10:11:23",
+            "gname": "泰有錢"
+        },
+        {
+            "num": 917,
+            "gid": 2,
+            "BuyFeatures": 0,
+            "base": "120",
+            "bonus": "132,342.23",
+            "record": "http://192.168.30.238:16888/Record/72Changes_New/index.html?lang=zh-TW",
+            "time": "2022/03/03 10:11:23",
+            "gname": "魔法石"
+        },
+        {
+            "num": 930,
+            "gid": 4,
+            "BuyFeatures": 0,
+            "base": "120",
+            "bonus": "132,342.23",
+            "record": "http://192.168.30.238:16888/Record/72Changes_New/index.html?lang=zh-TW",
+            "time": "2022/03/03 10:11:23",
+            "gname": "慾望城市"
+        },
+        {
+            "num": 931,
+            "gid": 5,
+            "BuyFeatures": 0,
+            "base": "120",
+            "bonus": "132,342.23",
+            "record": "http://192.168.30.238:16888/Record/72Changes_New/index.html?lang=zh-TW",
+            "time": "2022/03/03 10:11:23",
+            "gname": "金雞報喜"
+        },
+        {
+            "num": 999,
+            "gid": 6,
+            "BuyFeatures": 0,
+            "base": "120",
+            "bonus": "132,342.23",
+            "record": "http://192.168.30.238:16888/Record/72Changes_New/index.html?lang=zh-TW",
+            "time": "2022/03/03 10:11:23",
+            "gname": "法老王"
+        }
+    ]
+}

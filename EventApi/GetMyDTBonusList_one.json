@@ -1,0 +1,16 @@
+{
+    "EventId": 345235,
+    "EventType": 3,
+    "BonusType": 1,
+    "Date": "02/21-02/27",
+    "BonusList": [{
+        "num": 123,
+        "gid": 1,
+        "BuyFeatures": 0,
+        "base": "120",
+        "bonus": "132,342.23",
+        "record": "http://192.168.30.238:16888/Record/72Changes_New/index.html?lang=zh-TW",
+        "time": "2022/03/03 10:11:23",
+        "gname": "泰有錢?"
+    }]
+}
